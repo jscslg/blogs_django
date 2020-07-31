@@ -1,2 +1,2 @@
 # blogs_django
- A sample blogs website using Django
+ A website where users can login/register and view/post blogs using Django and Bootstrap
