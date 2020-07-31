@@ -3,7 +3,7 @@ from .models import Post
 
 def home_view(request):
     context= {
-        'posts':Post.objects.all()
+        'posts' : Post.objects.all()
     }
     return render(request,'blogs/home.html',context)
 
