@@ -1,0 +1,122 @@
+[
+  {
+    "title": "My Updated Post",
+    "content": "My first updated post!",
+    "user_id": 1
+  },
+  {
+    "title": "A Second Post",
+    "content": "This is a post from a different user",
+    "user_id": 8
+  },
+  {
+    "title": "Top 5 Programming Lanaguages",
+    "user_id": 14,
+    "content": "JavaScript. It seems impossible to be a software developer these days without using JavaScript. ...Python. This may surprise you; I have kept python on number #8, in many of the surveys it is positioned on number #5. ...Java. ...C/CPP. ..."
+  },
+  {
+    "title": "VS code",
+    "content": "Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.",
+    "user_id": 1
+  },
+  {
+    "title": "Python",
+    "content": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.",
+    "user_id": 1
+  },
+  {
+    "title": "Flask vs Django - Which Is Better?",
+    "content": "Django is a full-stack web framework, whereas Flask is a micro and lightweight web framework. The features provided by Django help developers to build large and complex web applications. On the other hand, Flask accelerates development of simple web applications by providing the required functionality.",
+    "user_id": 8
+  },
+  {
+    "title": "You Won't Believe These Clickbait Titles!",
+    "content": "Clickbaits are quite common in social media. The basic concept of ‘clickbait’ is to create a melodramatic title for an online article so as to manipulate people into clicking the link and reading the content. Honestly, clickbait is a smart idea for publicity but, the way it has taken over social media over bland content is quite annoying.",
+    "user_id": 8
+  },
+  {
+    "title": "These Beers Will Improve Your Programming",
+    "content": "The point is: how much beer can one have until the programming skills deteriorate? ... by this invigorating surge of a charged boost that comes with beer.",
+    "user_id": 14
+  },
+  {
+    "title": "Google IO 2019",
+    "content": "Google I/O 2019 returns to the Shoreline Amphitheatre May 7-9. Join us for a hands-on experience with Google's latest product and platform innovations.",
+    "user_id": 14
+  },
+  {
+    "title": "How Dogs in the Workplace Boosts Productivity",
+    "content": "They reduce stress and increase productivity, mainly because they interact with you of their own accord and, when they pop over to your work station, it's a good reminder that you might need to take a break,  explained the psychologist.",
+    "user_id": 14
+  },
+  {
+    "title": "The Best Programming Podcasts",
+    "content": "Many of us have found ourselves working from home due to current events.  In this show, we chat with Adam Bell who has been working from home for the past decade.  We also do the show interactive on Twitch.tv and take your questions!  Give it a listen for a ton of great advice on working from home and some pitfalls to avoid.",
+    "user_id": 14
+  },
+  {
+    "title": "Tips for Public Speaking",
+    "user_id": 8,
+    "content": "Work to control filler words; Practice, pause and breathe. Use a clock to check your timings and allow time for the unexpected. Know the audience. Try to speak to one or two people in the audience as they arrive – they will be your allies in the audience – it is easier to speak to friends than to strangers."
+  },
+  {
+    "title": "Best Programmers Throughout History",
+    "user_id": 8,
+    "content": "Dennis Ritchie: Dennis Ritchie “Father of the C programming language” who also created UNIX operating system along with his long-time colleague Ken Thompson. ...Linus Torvalds: Linus Benedict Torvalds is a Finnish American software engineer. ...Bjarne Stroustrup: Bjarne Stroustrup is a Danish computer scientist"
+  },
+  {
+    "title": "How To Create A YouTube Channel",
+    "content": "Sign in to YouTube on a computer or using the mobile site. Go to your channel list. Choose to create a new channel or use an existing Brand Account: Create a new channel by clicking Create a new channel.",
+    "user_id": 8
+  },
+  {
+    "title": "How I code",
+    "content": "Programming is, quite literally, all around us. From the take-out we order, to the movies we stream, code is ever present in our lives. Whether you are about to start your journey as a web developer, can’t decide which language to learn first, or just want to increase your digital literacy, learning programming fundamentals will be beneficial to your career.",
+    "user_id": 12
+  },
+  {
+    "title": "Python and Physics",
+    "content": "Newman, an introduction to the field of computational physics using the Python programming language. ... The Python programming language is an excellent choice for learning, teaching, or doing computational physics. It is a well-designed, modern programming language that is simultaneously easy to learn and very powerful.",
+    "user_id": 12
+  },
+  {
+    "title": "Just A Few More Healines Should Do It",
+    "content": "Just some more without even any content for the sake of pagination",
+    "user_id": 12
+  },
+  {
+    "title": "Music To Listen To While Coding",
+    "content": "Yeah, sometimes but not always",
+    "user_id": 8
+  },
+  {
+    "title": "5 Tips for Writing Catchy Headlines",
+    "content": "Write Catchy headlines",
+    "user_id": 8
+  },
+  {
+    "title": "Also from wikipedia",
+    "content": "'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis. So, one could be maintaining a blog on Facebook or blogging on Instagram.\nOn February 16, 2011, there were over 156 million public blogs in existence. On February 20, 2014, there were around 172 million Tumblr[1] and 75.8 million WordPress[5] blogs in existence worldwide. According to critics and other bloggers, Blogger is the most popular blogging service used today. However, Blogger does not offer public statistics.[6][7] Technorati lists 14.12 million blogs as of February 22, 2014.[8]",
+    "user_id": 14
+  },
+  {
+    "title": "Thats Enough Blogs",
+    "content": "'Blog' and 'blogging' are now loosely used for content creeation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis. So, one could be maintaining a blog on Facebook or blogging on Instagram.\nOn February 16, 2011, there were over 156 million public blogs in existence. On February 20, 2014, there were around 172 million Tumblr and 75.8 million WordPress blogs in existence worldwide. According to critics and other bloggers, Blogger is the most popular blogging service used today. However, Blogger does not offer public statistics. Technorati lists 14.12 million blogs as of February 22, 2014.",
+    "user_id": 14
+  },
+  {
+    "title": "More and More",
+    "content": "Many blogs provide commentary on a particular subject or topic, ranging from politics to sports. Others function as more personal online diaries or online brand advertising of a particular individual or company. A typical blog combines text, digital images, and links to other blogs, web pages, and other media related to its topic. The ability of readers to leave publicly viewable comments, and interact with other commenters, is an important contribution to the popularity of many blogs. However, blog owners or authors often moderate and filter online comments to remove hate speech or other offensive content. Most blogs are primarily textual, although some focus on art (art blogs), photographs (photoblogs), videos (video blogs or  vlogs ), music (MP3 blogs), and audio (podcasts). In education, blogs can be used as instructional resources; these are referred to as edublogs. Microblogging is another type of blogging, featuring very short posts.",
+    "user_id": 14
+  },
+  {
+    "title": "More",
+    "content":"Some random content",
+    "user_id": 14
+  },
+  {
+    "title": "Blog",
+    "content": "A blog (a truncation of  weblog )[14] is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s,  multi-author blogs  (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other  microblogging  systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.",
+    "user_id": 14
+  }
+]
